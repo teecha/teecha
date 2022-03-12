@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teecha
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on robotics
+- 👀 I’m interested in robotics, Tech
+- 🌱 I’m currently studying robotics
+- 💞️ I’m looking to collaborate on software related robotics
 - 📫 How to reach me https://www.linkedin.com/in/ssktejamadduri/
 
 <!---
